@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          deneme1
+          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
@@ -22,4 +22,5 @@ function App() {
   );
 }
 
-export default App;
+export default App; //app ksımını export ediyo burda 
+//index.js de import edicek
